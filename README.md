@@ -6,8 +6,6 @@ Angular Front-end developer
 
 Completing studies at Logos IT Academy in 2023, I gained a deep grasp of front-end development and honed skills in Angular. My SoftServe internship since February 2023 provided hands-on web app experience. Since June 2023, I lead Baza Trainee Ukraine's front-end team for the "1000 and 1 Song" project using Scrum and Kanban. 
 
-Skills span Angular 16, 14, 9 (Modules, Components, HTTP, RxJS, NgRx, Angular Materials, Unit testing, LazyLoads), plus TypeScript, JavaScript, jQuery, Bootstrap, SCSS, CSS, HTML, Gulp, Docker, GIT, GitHub. I devote daily time to refining my frontend skills and staying current with trends. 
-
 I'm enthusiastically open to new opportunities, seeking to contribute and learn in evolving environments
 
 * 🌍  I'm based in Lviv, Ukrain
@@ -18,7 +16,7 @@ I'm enthusiastically open to new opportunities, seeking to contribute and learn 
 ### Skills
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+Skills span Angular 16, 14, 9 (Modules, Components, HTTP, RxJS, NgRx, Angular Materials, Unit testing, LazyLoads), plus TypeScript, JavaScript, jQuery, Bootstrap, SCSS, CSS, HTML, Gulp, Docker, GIT, GitHub. I devote daily time to refining my frontend skills and staying current with trends. 
 </p>
 
 ### Socials
