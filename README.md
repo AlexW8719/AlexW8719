@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Angular Front-end developer
 ---------------------------
 
-Completing studies at Logos IT Academy in 2023, I gained a deep grasp of front-end development and honed skills in Angular. My SoftServe internship since February 2023 provided hands-on web app experience. Since June 2023, I lead Baza Trainee Ukraine's front-end team for the "1000 and 1 Song" project using Scrum and Kanban. 
+Having completed my studies at Logos IT Academy in 2022, I gained a deep understanding of front-end development and honed my Angular skills. My internship at SoftServe from September 2022 to February 2023 provided practical experience in working with web applications. Since April 2023, I have been working at Insider as an Angular developer. Additionally, from June to September 2023, I led the front-end team at Baza Trainee Ukraine for the "1000 and 1 Song" project using Angular 16. I have experience working with Angular 10, 14, 16, and 17.
 
 I'm enthusiastically open to new opportunities, seeking to contribute and learn in evolving environments
 
 * 🌍  I'm based in Lviv, Ukrain
 * ✉️  You can contact me at [vynnyk87@gmail.com](mailto:vynnyk87@gmail.com)
 * 🚀  I'm currently working on [1001-songs](http://baza-trainee.github.io/1001-songs-frontend/)
-* 🧠  I'm learning Node JS
+* 🧠  I'm learning Python
 
 ### Skills
 
